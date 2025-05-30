@@ -1,0 +1,22 @@
+# Core packages
+numpy
+pandas
+tldextract
+urllib3
+re
+scikit-learn
+xgboost
+imblearn
+
+# Flask for API
+Flask
+flask-cors
+
+# TensorFlow for deep learning
+tensorflow==2.13.0  # Or compatible version with your system
+
+# Optional but recommended
+matplotlib  # For plotting confusion matrix (if used)
+seaborn     # Optional for data visualization
+joblib      # Useful for model serialization
+streamlit
